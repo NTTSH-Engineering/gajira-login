@@ -1,5 +1,5 @@
 ---------
-⚠️ This repository isn’t maintained anymore.
+⚠️ This repository was forked from the Atlassian repository and updated to support Node20
 ---------
 
 # Jira Login
